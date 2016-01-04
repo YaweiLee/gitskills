@@ -1,3 +1,3 @@
 # gitskills
 
-Create a new branch!
+Create a new branch is simple!
