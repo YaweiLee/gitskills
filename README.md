@@ -1,3 +1,7 @@
 # gitskills
 
-Create a new branch & simple!
+<<<<<<< HEAD
+Create a new branch is simple!
+=======
+Create a new branch is simple!
+>>>>>>> feat
